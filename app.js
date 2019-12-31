@@ -1,0 +1,1 @@
+var serv = require('./core/server');
